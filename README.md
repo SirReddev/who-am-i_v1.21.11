@@ -10,7 +10,7 @@ A mod that shows your own player nametag in 3rd person view and Inventory.
 
  Grab a release from Github Actions and put the mod inside your mods folder!
 
- (1.19.2, doesn't require Fabric API)
+ (1.21.11, doesn't require Fabric API)
 
 
 ## Building
