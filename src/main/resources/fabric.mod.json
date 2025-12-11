@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "whoami",
+  "version": "${version}",
+  "name": "Who am I?",
+  "description": "Shows your name in third perspective and inventory.",
+  "authors": [
+    "Foksha"
+  ],
+  "contact": {
+    "website": "foksha.me"
+  },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+  },
+  "mixins": [
+    "whoami.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16",
+    "minecraft": ">=1.21.11"
+  }
+}
